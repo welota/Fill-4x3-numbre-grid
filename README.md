@@ -9,12 +9,12 @@ The code starts at a grid, then checks for all directions (vertical, horizontal 
 
 There is only one way to solve it, and is:
 
-.  .╔═══╦═══╗  
-.  .║ 3 ║ 5 ║  
+....╔═══╦═══╗  
+....║.3.║.5.║  
 ╔═══╬═══╬═══╬═══╗  
-║ 7 ║ 1 ║ 8 ║ 2 ║  
+║.7.║.1.║.8.║.2.║  
 ╚═══╬═══╬═══╬═══╝  
-.  .║ 4 ║ 6 ║  
-.  .╚═══╩═══╝  
+....║.4.║.6.║  
+....╚═══╩═══╝  (it's pretty ugly cuz md delete spaces)
 
 Note: order can be reversed.
